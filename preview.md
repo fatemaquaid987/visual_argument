@@ -1,0 +1,5 @@
+Preview
+
+In this project preview I am showing 2 sides of the planet Earth. The left side of the Earth is a zoomed out view of the planet in the space while the 
+right side is a zoomed in view whith a hazy mustard backgorund. As you may notice, I have tried to create a torn out paper effect in the middle to separate the two sides. This is just to enforce the idea that we need to tear off the misleading image of earth we have in our minds and look at the real picture. The caption at the top says "The Damage is Real" and implies the same idea that we are damaging our planet and we need to realize that.
+Right now, the right side only displays a power plant polluting the Earth's atmosphere with smoke which is one example of how humans are damaging the environment for the sake of their luxuries. The finished poster will display more such human actions and their consequences like land and water pollution, industrial pollution, deforestation, death of animals etc. which are damaging our planet as a whole. 
