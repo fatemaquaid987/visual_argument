@@ -13,11 +13,11 @@ Repurposed assets
 
 |needed| source|
 |------|-----|
-|earth image | TBD|
-|space/cosmos background | TBD|
+|earth image | Lilac company short film "Our Planet is Dying" |
+|space/cosmos background | the Heavens by Alexander Andrews on Unsplash|
 |scy scrappers image | Unsplash|
 |plastic bags image | Unsplash |
-|power plants image | Unsplash|
+|power plants image | Cooling Tower’s Fumes by Thomas Millot on Unsplash|
 |factories image | Unsplash|
 |car image |Unsplash|
 |aeroplane image | Unsplash|
