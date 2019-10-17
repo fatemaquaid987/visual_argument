@@ -11,7 +11,7 @@ Credits
 9. Airplane: [American Airline’s Boeing 738](https://unsplash.com/photos/iDFumFZ5fFw) by [Ross Sokolovski](https://unsplash.com/@ross_sokolovski) on [Unsplash](https://unsplash.com) is licensed under CC-0.
 10. Car: [shallow focus photography of orange Volkswagen Beetle](https://unsplash.com/photos/N7RiDzfF2iw) by [Dan Gold](https://unsplash.com/@danielcgold) on [Unsplash](https://unsplash.com) is licensed under CC-0.
 11. moon: [moon](https://unsplash.com/photos/wCujVcf0JDw) by [Pedro Lastra](https://unsplash.com/@peterlaster) on [Unsplash](https://unsplash.com) is licensed under CC-0.
-12.[planet-inner-planets-11060](https://pixabay.com/photos/planet-inner-planets-11060/) by [WikiImages](https://pixabay.com/users/wikiimages-1897/) on [pixabay](https://pixabay.com) is licensed under CC-0
+12.Planets: [planet-inner-planets-11060](https://pixabay.com/photos/planet-inner-planets-11060/) by [WikiImages](https://pixabay.com/users/wikiimages-1897/) on [pixabay](https://pixabay.com) is licensed under CC-0
 
 
 
